@@ -1,0 +1,54 @@
+
+.login-container {
+    margin: 0 auto;
+    max-width: 400px;
+    height: 100vh;
+}
+
+.form-group {
+    margin: 0 0 0.7rem 0;
+}
+
+label {
+    margin: 0 1rem 0 0;
+}
+input {
+    border: 1px solid black;
+    padding: 2px 1rem;
+}
+
+.form {
+    text-align: right;
+}
+
+button {
+    background-color: rgb(180, 180, 180);
+    font-size: 1rem;
+    padding: 3px 0.7rem;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.contacts-container {
+    margin: 0 auto;
+    max-width: 700px;
+    height: 100vh;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+.contacts-container table th {
+    padding: 5px 10px;
+    background-color: rgb(212, 212, 212);
+}
+
+.contacts-container table td {
+    padding: 5px 10px;
+}
+
+.contacts-container table td span {
+    cursor: pointer;
+}
